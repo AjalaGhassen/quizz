@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz en images</string>
+    <string name="quiz_title">Quiz en images - Formes</string>
+    <string name="score_label">Score : %d/5</string>
+    <string name="score_initial">Score : 0/5</string>
+    <string name="progression_label">%d / 5</string>
+    <string name="progression_initial">0 / 5</string>
+    <string name="question_number">Question %d sur 5</string>
+    <string name="btn_next">Question suivante</string>
+    <string name="btn_see_result">Voir le résultat</string>
+    <string name="btn_replay">Rejouer</string>
+    <string name="correct_feedback">Bonne réponse !</string>
+    <string name="incorrect_feedback">Mauvaise réponse. La bonne réponse était : %s</string>
+    <string name="final_result_title">Quiz terminé !</string>
+    <string name="final_result_score">Votre score final : %d / 5</string>
+    <string name="final_result_message_perfect">Excellent ! Vous avez tout bon !</string>
+    <string name="final_result_message_good">Bien joué ! Bon score !</string>
+    <string name="final_result_message_average">Pas mal, mais vous pouvez faire mieux !</string>
+    <string name="final_result_message_low">Entraînez-vous encore pour progresser !</string>
+    <string name="desc_default">Image d\'illustration de la question</string>
+    <string name="desc_triangle">Illustration d\'un triangle bleu</string>
+    <string name="desc_carre">Illustration d\'un carré rose</string>
+    <string name="desc_cercle">Illustration d\'un cercle vert</string>
+    <string name="desc_etoile">Illustration d\'une étoile jaune</string>
+    <string name="desc_rectangle">Illustration d\'un rectangle violet</string>
+</resources>
